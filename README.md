@@ -22,8 +22,8 @@ https://valeriaog17-tech.github.io/papeleria-landing-page
 ### Nosostros
 ![Nosotros](assets/screenshots/nosotros.png)
 
-### Footer
-![Footer] (assets/screenshots/landing.png)
+### Landing
+![landing](assets/screenshots/landing.png)
 
 ## Características
 - Navbar sticky
